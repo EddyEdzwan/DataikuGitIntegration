@@ -136,7 +136,6 @@
     "dkuProperties": []
   },
   "name": "Dataiku Git Integration",
-  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -193,11 +192,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1708492078052,
+    "lastModifiedOn": 1708492309989,
     "extendedProperties": {}
   },
   "creationTag": {
@@ -209,7 +208,9 @@
     "extendedProperties": {}
   },
   "shortDesc": "The project *Dataiku Git Integration* was created by Administrator on Feb 21st 2024",
-  "tags": [],
+  "tags": [
+    "duplicated"
+  ],
   "customFields": {},
   "checklists": {
     "checklists": [
