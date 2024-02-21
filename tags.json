@@ -2,6 +2,8 @@
   "tags": {
     "duplicated": {
       "color": "#3A85AD"
-    }
+    },
+    "origin:sql_import": {},
+    "Postgres_local": {}
   }
 }
